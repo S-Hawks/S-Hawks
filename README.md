@@ -18,14 +18,14 @@
 ```java
 public class SoftwareEngineer {
 
-    private final String name     = "<Your Name>";
+    private final String name     = "Faiaz Ibne Ahsan";
     private final String role     = "Software Engineer";
     private final String focus    = "Backend Systems & Distributed Architecture";
 
     private final String[] currentlyDoing = {
         "Building scalable microservices with Spring Boot",
         "Exploring system design patterns",
-        "Deepening expertise in Kubernetes & cloud-native infra"
+        "Deepening expertise in cloud-native infra"
     };
 
     private final String[] interests = {
@@ -82,7 +82,7 @@ public class SoftwareEngineer {
 
 > Replace these with your real projects!
 
-### 🔐 [Auth Service](https://github.com/yourusername/auth-service)
+### 🔐 [Card Selling](https://github.com/yourusername/auth-service)
 > A production-ready authentication & authorization microservice built with Spring Boot, Spring Security, and JWT. Supports OAuth2, role-based access control, and Redis-backed session management.
 
 **Stack:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Redis` `Docker`
@@ -138,7 +138,7 @@ public class SoftwareEngineer {
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:faiaz.i.ahsan@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/yourusername">
