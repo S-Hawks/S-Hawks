@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/S-Hawks">
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="https://github.com/yourusername?tab=followers">
+  <a href="https://github.com/S-Hawks?tab=followers">
     <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=36BCF7" alt="Followers" />
   </a>
 </p>
