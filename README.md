@@ -80,24 +80,10 @@ public class SoftwareEngineer {
 
 ## 🚀 Featured Projects
 
-### 🔐 [Card Selling](https://github.com/S-Hawks/auth-service)
-> A production-ready authentication & authorization microservice built with Spring Boot, Spring Security, and JWT. Supports OAuth2, role-based access control, and Redis-backed session management.
+### 🃏 [Card Selling](https://github.com/S-Hawks/card-selling)
+> A full-featured card marketplace backend built with Spring Boot. Handles product listings, secure transactions, and user authentication with JWT and Spring Security.
 
 **Stack:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Redis` `Docker`
-
----
-
-### 📦 [Order Management System](https://github.com/S-Hawks/order-management)
-> A high-throughput order processing system designed with event-driven architecture. Handles concurrent requests gracefully with distributed locking and async processing.
-
-**Stack:** `Java` `Spring Boot` `Kafka` `PostgreSQL` `Kubernetes`
-
----
-
-### 🌐 [API Gateway](https://github.com/S-Hawks/api-gateway)
-> A lightweight custom API Gateway with rate limiting, request routing, and circuit breaker pattern — containerized and orchestrated via Kubernetes.
-
-**Stack:** `Java` `Spring Cloud Gateway` `Redis` `Docker` `K8s`
 
 ---
 
@@ -116,8 +102,17 @@ public class SoftwareEngineer {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Hawks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Hawks&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Hawks&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Hawks&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Hawks&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Hawks&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-Hawks&theme=tokyonight&utcOffset=6" />
 </p>
 
 ---
