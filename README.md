@@ -116,8 +116,8 @@ public class SoftwareEngineer {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Hawks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Hawks&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Hawks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Hawks&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="175" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ public class SoftwareEngineer {
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/faiaz-ibne-ahsan">
+  <a href="https://www.linkedin.com/in/faiaz5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:faiaz.i.ahsan@gmail.com">
